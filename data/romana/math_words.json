@@ -1,0 +1,46 @@
+{
+  "numere" : {
+    "unu" : 1,
+    "doi" : 2,
+    "trei" : 3,
+    "patru" : 4,
+    "cinci" : 5,
+    "sase" : 6,
+    "sapte" : 7,
+    "opt" : 8,
+    "noua" : 9,
+    "zece" : 10,
+    "unsprazece" : 11,
+    "doisprezece" : 12,
+    "treisprezece" : 13,
+    "paisprezece" : 14,
+    "cincisprezece" : 15,
+    "saisprazece" : 16,
+    "saptesprazece" : 17,
+    "optsprazece" : 18,
+    "nousprazece" : 19,
+    "douazeci" : 20,
+    "treizeci" : 30,
+    "patruzeci" : 40,
+    "cincizeci" : 50,
+    "saizeci" : 60,
+    "saptezeci" : 70,
+    "optzeci" : 80,
+    "nouazeci" : 90
+  },
+  "cuvinte" : {
+    "plus" : "+",
+    "impartit la" : "/",
+    "minus" : "-",
+    "inmultit cu" : "*",
+    "la patrat" : "^ 2",
+    "ridicat la puterea" : "^"
+  },
+  "scales" : {
+    "sute" : "* 100",
+    "mii" : "* 1000",
+    "milioane" : "* 1000000",
+    "bilione" : "* 1000000000",
+    "trilione" : "* 1000000000000"
+  }
+}

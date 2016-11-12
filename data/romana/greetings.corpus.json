@@ -1,0 +1,32 @@
+{
+    "greetings": [
+        [
+            "Salutare",
+            "Salut"
+        ],
+        [
+            "Salut",
+            "Salutare"
+        ],
+        [
+            "Numai bine!",
+            "Ceau"
+        ],
+        [
+            "Ceau",
+            "Numai bine!"
+        ],
+        [
+            "Salut, cum merge treaba?",
+            "Bine"
+        ],
+        [
+            "Ceau, cum merge?",
+            "Binisor"
+        ],
+        [
+            "Salutare, cum merge?",
+            "Destul de bine"
+        ]
+    ]
+}

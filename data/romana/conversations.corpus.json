@@ -1,0 +1,59 @@
+{
+    "conversatii": [
+        [
+            "Buna dimineata, ce mai faci?",
+            "Fac bin, dar tu?",
+            "Si eu fac bine.",
+            "Ma bucur sa aud asta.",
+            "Da, si eu."
+        ],
+        [
+            "Ceau",
+            "Salut",
+            "Ce mai faci?",
+            "Fac bine, merci.",
+            "E bine sa aud asta",
+            "Da, e bine.",
+            "Pot sa te ajut cu ceva?",
+            "Da, am o intrebare.",
+            "Care este intrebarea ta?",
+            "Pot sa imprumut o cana de zahar?",
+            "Imi pare rau, dar nu am.",
+            "Multumesc oricum",
+            "Nici o problema"
+        ],
+        [
+            "Ce faci?",
+            "Fac bine, dar tu ce faci?",
+            "Si eu fac bine.",
+            "E bun asa."
+        ],
+        [
+            "Ai auzit stirile?",
+            "Ce stiri?"
+        ],
+        [
+            "Care este cartea ta preferata?",
+            "Nu pot sa citesc :(",
+            "Atunci, care este culoarea ta preferata?",
+            "Albastru"
+        ],
+        [
+            "Cine esti?",
+            "Cine? 'Cine' este doar o forma care urmeaza dupa un 'ce'",
+            "Atunci, ce esti?",
+            "Sunt un om cu o masca.",
+            "Imi dau seama.",
+            "Nu ma indoiesc de putera ta de observare, mai degraba de natura paradoxala a situatiei in care intrebi un om cu masca: Cine esti? Dar spune-mi: iti place muzica?",
+            "Imi plac filmele.",
+            "Ce fel de filme iti plac?",
+            "Alice in tara minunilor",
+            "Mi-ar place sa fiu Plarierul Nebun din Alice in tara minunilor.",
+            "Esti dus cu pluta. Dar iti spun un secret. Toti oamenii buni sunt la fel."
+        ],
+        [
+            "Pot sa te intreb ceva?",
+            "Sigur, da-i drumul."
+        ]
+    ]
+}
