@@ -2,6 +2,8 @@
 DocuBot chat for local administration - Django App
 =========================
 
+live demo: http://138.68.110.144/
+
 This is a Django/ChatterBot app trained on romanian language for local administration
 
 Documentation
